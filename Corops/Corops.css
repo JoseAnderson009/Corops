@@ -1,0 +1,143 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+.header{
+    background-color:rgb(255, 255, 255);
+    border-bottom:1px solid rgba(0, 0, 0, 0.12);
+    color:rgba(0, 0, 0, 0.87);
+    height:64px;
+    line-height:20px;
+    position:fixed;
+    width: 100%;
+    padding: 0px;
+    z-index:2;
+    background-color: #f48024;
+}
+.header2{
+    color:rgba(0, 0, 0, 0.87);
+    display:table-cell;
+    font-family:Roboto, sans-serif;
+    font-size:16px;
+    font-weight:400;
+    height:64px;
+    line-height:20px;
+    width:318.4px;
+}
+.texto_header{
+    box-sizing:border-box;
+    color:rgba(0, 0, 0, 0.54);
+    font-family:"Product Sans", Arial;
+    font-size:22px;
+    font-stretch:100%;
+    font-weight:400;
+    height:auto;
+    line-height:32px;
+    width:auto;
+    position: relative;top: 13px;left: 5px;
+    color: white;
+}
+.texto2_header{
+    box-sizing:border-box;
+    color:white;
+    cursor:pointer;
+    font-family:"Google Sans", "Helvetica Neue", sans-serif;
+    font-size:14px;
+    font-stretch:100%;
+    font-weight:500;
+    height:auto;
+    line-height:20px;
+    margin-right:24px;
+    text-align:right;
+    width:auto;
+    position: relative;top: 12px;left: 1170px;
+}
+.boton{
+    background-color:rgb(26, 115, 232);
+    border-radius: 4px;
+    color:rgb(255, 255, 255);
+    cursor:pointer;
+    font-family:"Google Sans", "Helvetica Neue", sans-serif;
+    font-size:14px;
+    font-weight:500;
+    height:35px;
+    line-height:64px;
+    margin-right:32px;
+    width:90px;
+    border-style: none;
+    position: relative;bottom: 30px;left: 1398px;
+}
+.container1{
+    width: 100px;
+    padding-left: 555px;
+    position: relative;top: 220px;
+}
+.titulo{
+    font-size: 40px;
+    font-family:"Google Sans", "Helvetica Neue", sans-serif;
+    text-align: center;
+    position: relative;top: 150px;
+}
+.formulario{
+    width: 450px;
+    height: 40px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+.formulario2{
+    width: 450px;
+    height: 40px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+.formulario3{
+    width: 450px;
+    height: 40px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+.formulario4{
+    width: 450px;
+    height: 40px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+.Enviar{
+    background-color:rgb(26, 115, 232);
+    border-radius: 4px;
+    color:rgb(255, 255, 255);
+    cursor:pointer;
+    font-family:"Google Sans", "Helvetica Neue", sans-serif;
+    font-size:14px;
+    height:35px;
+    margin-right:32px;
+    width:90px;
+    border-style: none;
+}
+.futel{
+    width: 100%;
+    height: 200px;
+    background-color: #222739;
+    padding-left: 450px;
+    padding-top: 60px;
+}
+.texto_futel{
+    font-size: 40px;
+    color: white;
+    height: 10px;
+    width: 100px;
+    font-family:"Google Sans Display", "Helvetica Neue", sans-serif;
+    position: relative;left: 65px;bottom: 73px;
+}
+.texto2_futel{
+    height: 20px;
+    font-size: 20px;
+    color: #f48024;
+    font-family:"Google Sans Display", "Helvetica Neue", sans-serif;
+    width: 100px;
+    cursor: pointer;
+}

@@ -1,0 +1,263 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+.header{
+    background-color:rgb(255, 255, 255);
+    border-bottom:1px solid rgba(0, 0, 0, 0.12);
+    color:rgba(0, 0, 0, 0.87);
+    height:64px;
+    line-height:20px;
+    position:fixed;
+    width: 100%;
+    padding: 0px;
+    z-index:2;
+    background-color: #f48024;
+}
+.header2{
+    color:rgba(0, 0, 0, 0.87);
+    display:table-cell;
+    font-family:Roboto, sans-serif;
+    font-size:16px;
+    font-weight:400;
+    height:64px;
+    line-height:20px;
+    width:318.4px;
+}
+.texto_header{
+    box-sizing:border-box;
+    color:rgba(0, 0, 0, 0.54);
+    font-family:"Product Sans", Arial;
+    font-size:22px;
+    font-stretch:100%;
+    font-weight:400;
+    height:auto;
+    line-height:32px;
+    width:auto;
+    position: relative;top: 13px;left: 5px;
+    color: white;
+}
+.texto2_header{
+    box-sizing:border-box;
+    color:white;
+    cursor:pointer;
+    font-family:"Google Sans", "Helvetica Neue", sans-serif;
+    font-size:14px;
+    font-stretch:100%;
+    font-weight:500;
+    height:auto;
+    line-height:20px;
+    margin-right:24px;
+    text-align:right;
+    width:auto;
+    position: relative;top: 12px;left: 1170px;
+}
+.boton{
+    background-color:rgb(26, 115, 232);
+    border-radius: 4px;
+    color:rgb(255, 255, 255);
+    cursor:pointer;
+    font-family:"Google Sans", "Helvetica Neue", sans-serif;
+    font-size:14px;
+    font-weight:500;
+    height:35px;
+    line-height:64px;
+    margin-right:32px;
+    width:90px;
+    border-style: none;
+    position: relative;bottom: 30px;left: 1398px;
+}
+.container1{
+    height:1250px;
+    padding-top:164px;
+    text-align:center;
+    width:100%;
+    background-color: white;
+}
+.imagen_container1{
+    height:120px;
+    margin-left:434.4px;
+    margin-right:434.4px;
+    width:120px;
+    position: relative;bottom: 50px;
+}
+.texto_container1{
+    color:rgb(32, 33, 36);
+    display:block;
+    font-family:"Google Sans Display", "Helvetica Neue", sans-serif;
+    font-size:56px;
+    height:64px;
+    letter-spacing:0.1px;
+    text-align:center;
+    position: relative;bottom: 30px;
+}
+.texto2_container1{
+    color:rgb(32, 33, 36);
+    display:block;
+    font-family:"Google Sans Display", "Helvetica Neue", sans-serif;
+    font-size:56px;
+    height:64px;
+    letter-spacing:0.1px;
+    text-align:center;
+    font-size: 50px;
+    position: relative;top: 20px;
+}
+.boton_container{
+    height:44px;
+    margin-top:32px;
+    width: 150px;
+}
+.botones{
+    background-color:rgb(26, 115, 232);
+    border-radius: 4px;
+    border-color: white;
+    border-style: none;
+    border-width: 0px;
+    box-shadow:rgba(0, 0, 0, 0.14) 0px 2px 2px 0px, rgba(0, 0, 0, 0.2) 0px 3px 1px -2px, rgba(0, 0, 0, 0.12) 0px 1px 5px 0px;
+    cursor:pointer;
+    font-family:"Google Sans", "Helvetica Neue", sans-serif;
+    font-size:14px;
+    height:42px;
+    padding-left:32px;
+    padding-right:32px;
+    text-align:center;
+    margin: 0px;
+    width:200px;
+    color: white;
+}
+.imagen2_container1{
+    width: 1000px;
+    height: 600px;
+    background-image: url(lider_animacion.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-top: 60px;
+    margin-left:270.4px;
+    border-radius: 10px;
+    position: relative;bottom: 50px;
+}
+.container2{
+    background-color:rgb(248, 249, 250);
+    box-sizing:border-box;
+    height:1600px;
+    padding-bottom:0px;
+    padding-left:0px;
+    padding-right:0px;
+    padding-top:90px;
+    text-align:center;
+    width:100%;
+}
+.texto1_container2{
+    color:white;
+    display:block;
+    font-family:"Google Sans Display", "Helvetica Neue", sans-serif;
+    font-size:46px;
+    letter-spacing:0.1px;
+    text-align:center;
+    background-color:rgb(32, 33, 36);
+    width: 350px;
+    border: unset;
+    border-radius: 5px;
+    position: relative;left: 600px;
+}
+.imagen1_container2{
+    width: 500px;
+    height: 400px;
+    background-image: url(2care.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 70px;
+}
+.texto_imagen{
+    width: 500px;
+    font-size: 20px;
+    font-family:"Google Sans Display", "Helvetica Neue", sans-serif;
+    color: rgb(26, 115, 232);
+    text-align: justify;
+    position: relative;left: 750px;bottom: 320px;
+}
+.texto2_imagen{
+    width: 500px;
+    font-size: 20px;
+    font-family:"Google Sans Display", "Helvetica Neue", sans-serif;
+    color: #222739;
+    text-align: justify;
+    position: relative;left: 300px;bottom: 80px;
+}
+.texto3_imagen{
+    width: 500px;
+    font-size: 20px;
+    font-family:"Google Sans Display", "Helvetica Neue", sans-serif;
+    color: #f48024;
+    text-align: justify;
+    position: relative;left: 750px;bottom: 360px;
+}
+.imagen2_container2{
+    width: 500px;
+    height: 400px;
+    background-image: url(vector-logo-png-6.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 70px;
+}
+.imagen3_container2{
+    width: 500px;
+    height: 400px;
+    background-image: url(239-2392657_crculo-abierto-circulos-png-para-logos.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 70px;
+}
+.futel{
+    width: 100%;
+    height: 200px;
+    background-color: #222739;
+    padding-left: 450px;
+    padding-top: 60px;
+}
+.texto_futel{
+    font-size: 40px;
+    color: white;
+    height: 10px;
+    width: 100px;
+    font-family:"Google Sans Display", "Helvetica Neue", sans-serif;
+    position: relative;left: 65px;bottom: 73px;
+}
+.texto2_futel{
+    height: 20px;
+    font-size: 20px;
+    color: #f48024;
+    font-family:"Google Sans Display", "Helvetica Neue", sans-serif;
+    width: 100px;
+    cursor: pointer;
+}
+a:hover{
+    color: white;
+    text-decoration: none;
+}
+a:link {
+    color: white;
+    text-decoration: none;
+}
+a:visited {
+    color: white;
+    text-decoration: none;
+}
+a:active {
+    color: white;
+    text-decoration: none;
+}
+a:hover {
+    color: white;
+    text-decoration: none;
+}
